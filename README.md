@@ -33,7 +33,9 @@ pdf-qa-app/
 ├── templates/
 │   └── index.html       # Main HTML template
 ├── static/
-│   └── Tallal-logo.png  # App logo
+│   └── screenshots
+│       |──chat-interface.png
+|       └──main-interface.png
 └── README.md            # Project documentation
 ```
 
@@ -50,7 +52,7 @@ pdf-qa-app/
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/AbdullahRaoo/OpenAI-PDF-Q-A.git
 cd pdf-qa-app
 ```
 
@@ -121,5 +123,4 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🙌 Acknowledgments
 
 - 🧠 [OpenAI](https://openai.com/) – GPT-4 API  
-- 🎨 [Tailwind CSS](https://tailwindcss.com/) – UI styling  
-- ⚙️ [Alpine.js](https://alpinejs.dev/) – Frontend interactivity
+- 🎨 [Tailwind CSS](https://tailwindcss.com/) – UI styling
