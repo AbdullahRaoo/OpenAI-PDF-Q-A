@@ -7,7 +7,7 @@
 
 ## 🚀 Features
 
-- 📤 Upload a PDF and extract its text content.
+- 📤 Upload a PDF and extract its text content. (2 sample pdf listed above)
 - 📖 View the extracted text in an expandable/collapsible section.
 - ❓ Ask questions about the content and get intelligent responses powered by OpenAI GPT-4.
 - 🌙 Clean and modern dark mode UI for a smooth user experience.
@@ -31,12 +31,14 @@ pdf-qa-app/
 ├── app.py               # Flask application
 ├── requirements.txt     # Python dependencies
 ├── templates/
-│   └── index.html       # Main HTML template
+│   └── index.html                          # Main HTML template
 ├── static/
 │   └── screenshots
-│       |──chat-interface.png
+│       ├───chat-interface.png
 |       └──main-interface.png
-└── README.md            # Project documentation
+├─── README.md                              # Project documentation
+├─── SamplePDF-Text-Images-Links-9Pages.pdf
+└─── SamplePDF-Text-7pages.pdf
 ```
 
 ---
