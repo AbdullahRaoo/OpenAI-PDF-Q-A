@@ -1,5 +1,5 @@
 
-# 📄 PDF Q&A Assistant
+# 📄 OpenAI PDF Q&A Assistant
 
 **PDF Q&A Assistant** is a lightweight web application that lets users upload a PDF file, extract its text, and interact with it using OpenAI's GPT-4 API. It offers a modern dark mode interface and seamless AI-powered question answering.
 
