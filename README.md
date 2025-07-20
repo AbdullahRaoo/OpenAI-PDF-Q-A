@@ -1,4 +1,3 @@
-
 # 📄 OpenAI PDF Q&A Assistant
 
 **PDF Q&A Assistant** is a lightweight web application that lets users upload a PDF file, extract its text, and interact with it using OpenAI's GPT-4 API. It offers a modern dark mode interface and seamless AI-powered question answering.
@@ -16,10 +15,20 @@
 
 ## 🛠️ Tech Stack
 
-- **Backend**: Python, Flask  
-- **Frontend**: HTML, Tailwind CSS, Alpine.js  
-- **PDF Processing**: PyMuPDF  
-- **AI Integration**: OpenAI GPT-4 via API  
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
+
+### PDF Processing
+![PyMuPDF](https://img.shields.io/badge/PyMuPDF-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### AI Integration
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -95,7 +104,6 @@ Open your browser and go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
 
 ### **Chat Interaction**
 ![Chat Interaction](static/screenshots/chat-interface.png)
-
 
 ---
 
